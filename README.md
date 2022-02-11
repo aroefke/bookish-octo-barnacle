@@ -1,17 +1,20 @@
-# Data-Science Test Environment
-- working with weather data
-- calculation of statistically relevant values
-- visualisation (graphs)
-- machine-learning
+# Data Science Test Environment
+
+- analysis/visualisation weather data 
+- training python, plotly-visualisation (python, js)
+- using mongoDB (in docker container)
 
 ## state
 
-## goals
 - example data
-	- public weather api
+	- public weather api.weatherapi.com (private API key)
 
-- save data
-	- noSQL, MongoDB?
+- mongoDB-connection established
+
+## goals
+
+- save data in collections
+	- structuring
 
 - process & analyze data
 	- temperature
@@ -20,8 +23,5 @@
 - visualisation of relevant data points
 
 ## timeline
-**until 06.02.22 23:59**
-- api requests
-- save data
 
 ## feature requests
